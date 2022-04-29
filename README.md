@@ -7,11 +7,11 @@ https://choosealicense.com/licenses/mit/
 
 ## Installation:
 
-User must install node packages and inquirer
+User must install node packages, heroku and inquirer
 
 ## Usage:
 
-This program will be used to generate work team profile cards generated on an HTML page
+This server hosts a note taking app via heroku
 
 ## Contributors:
 
@@ -19,11 +19,13 @@ Contributers must fork and clone repo before making any contributions
 
 ## Tests:
 
-Employee.js, Engineer.js, Intern.js, and Manager.js tests being run
+Tests currently not running
 
 ## Links:
 
 https://git.heroku.com/hw9-express-js-note-taker.git
+
+https://hw9-express-js-note-taker.herokuapp.com/
 
 https://github.com/mcgidoug/hw9-express-js-note-taker
 
