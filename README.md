@@ -23,6 +23,10 @@ Employee.js, Engineer.js, Intern.js, and Manager.js tests being run
 
 ## Links:
 
+https://git.heroku.com/hw9-express-js-note-taker.git
+
+https://github.com/mcgidoug/hw9-express-js-note-taker
+
 ---
 
 # 11 Express.js: Note Taker
