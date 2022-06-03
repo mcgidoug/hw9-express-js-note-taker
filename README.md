@@ -23,8 +23,6 @@ Tests currently not running
 
 ## Links:
 
-https://git.heroku.com/hw9-express-js-note-taker.git
+Heroku Deployment: https://hw9-express-js-note-taker.herokuapp.com/
 
-https://hw9-express-js-note-taker.herokuapp.com/
-
-https://github.com/mcgidoug/hw9-express-js-note-taker
+Github Repo: https://github.com/mcgidoug/hw9-express-js-note-taker
