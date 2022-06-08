@@ -1,25 +1,22 @@
-## Project Title:
-
-Team Profile Generator
+## Express Note Taker:
 
 ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 https://choosealicense.com/licenses/mit/
 
 ## Installation:
 
-User must install node packages, heroku and inquirer
+1. Clone the repo
+2. Install NPM packages
+3. Enter your API
+4. run 'npm start'
 
 ## Usage:
 
-This server hosts a note taking app via heroku
-
-## Contributors:
-
-Contributers must fork and clone repo before making any contributions
+App that allows users to enter a note with a title and save to the saved notes section and reference later.
 
 ## Tests:
 
-Tests currently not running
+Tests currently not running.
 
 ## Links:
 
